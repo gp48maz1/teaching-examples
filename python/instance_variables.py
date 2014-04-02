@@ -47,4 +47,4 @@ print d.get_contents()
 
 e = Cupboard(["onions", "raisins"])
 e.add_to_cupboard("radishes")
-e.get_contents()
+print e.get_contents()
